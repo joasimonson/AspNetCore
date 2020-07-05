@@ -9,12 +9,10 @@ Projeto básico de AspNetCore
 
 
 ## How to use:
-- You will need the latest Visual Studio 2019 and the latest .NET Core SDK.
-- The latest SDK and tools can be downloaded from https://dot.net/core.
+- Visual Studio 2019 or Visual Studio Code (Windows, Linux or MacOS).
+- Latest .NET Core SDK
 
-Also you can run in Visual Studio Code (Windows, Linux or MacOS).
-
-To know more about how to setup your enviroment visit the [Microsoft .NET Download Guide](https://www.microsoft.com/net/download)
+The latest SDK and tools can be downloaded from https://dotnet.microsoft.com/.
 
 ## Technologies implemented:
 
