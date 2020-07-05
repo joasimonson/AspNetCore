@@ -17,7 +17,6 @@ The latest SDK and tools can be downloaded from https://dotnet.microsoft.com/.
 ## Technologies implemented:
 
 - ASP.NET Core 3.1 (with .NET Core 3.1)
- - ASP.NET MVC Core
  - ASP.NET WebApi Core with JWT Bearer Authentication
 - Entity Framework Core 3.1
 - AutoMapper
