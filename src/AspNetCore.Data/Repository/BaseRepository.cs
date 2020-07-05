@@ -10,8 +10,8 @@ namespace AspNetCore.Data.Repository
 {
     public class BaseRepository<TEntity> : IBaseRepository<TEntity> where TEntity : BaseEntity
     {
-        protected MyContext _context { get; }
-        protected DbSet<TEntity> _dbSet { get; }
+        private readonly MyContext _context;
+        private readonly DbSet<TEntity> _dbSet;
 
         public BaseRepository(MyContext context)
         {
