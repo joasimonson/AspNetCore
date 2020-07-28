@@ -8,7 +8,7 @@ namespace AspNetCore.Data.Context
         public MyContext CreateDbContext(string[] args)
         {
             /* Conexão pelo MySQL */
-            const string connectionString = "Server=localhost;Port=3306;Database=AspNetCore;Uid=root;Pwd=O3!X8kEwqU";
+            const string connectionString = "Server=localhost;Port=3307;Database=AspNetCore;Uid=root;1234";
             var optionsBuilder = new DbContextOptionsBuilder<MyContext>();
             optionsBuilder.UseMySql(connectionString);
 

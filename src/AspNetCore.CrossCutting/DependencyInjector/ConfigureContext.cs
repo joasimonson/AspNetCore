@@ -9,7 +9,7 @@ namespace AspNetCore.CrossCutting.DependencyInjector
         public static void ConfigureDependencyInjector(IServiceCollection serviceCollection)
         {
             serviceCollection.AddDbContext<MyContext>(
-                options => options.UseMySql("Server=localhost;Port=3306;Database=AspNetCore;Uid=root;Pwd=O3!X8kEwqU")
+                options => options.UseMySql("Server=localhost;Port=3307;Database=AspNetCore;Uid=root;Pwd=1234")
             );
 
             // serviceCollection.AddDbContext<MyContext>(
