@@ -1,7 +1,7 @@
 Projeto básico de AspNetCore
 =====================
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/id)](https://www.codacy.com/manual/Joasimonson/AspNetCore?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Joasimonson/AspNetCore&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e8db9a559dc84f5b84ff3446feb1a8a2)](https://www.codacy.com/gh/joasimonson/AspNetCore/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=joasimonson/AspNetCore&amp;utm_campaign=Badge_Grade)
 [![Build status](https://ci.appveyor.com/api/projects/status/id?svg=true)](https://ci.appveyor.com/project/Joasimonson/AspNetCore)
 ![.NET Core](https://github.com/Joasimonson/AspNetCore/workflows/.NET%20Core/badge.svg)
 [![License](https://img.shields.io/github/license/Joasimonson/AspNetCore.svg)](LICENSE)
